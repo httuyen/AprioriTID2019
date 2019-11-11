@@ -1,0 +1,23 @@
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.csprojAssemblyReference.cache
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.Properties.Resources.resources
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.Views.FormMain.resources
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.csproj.GenerateResource.cache
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.csproj.CoreCompileInputs.cache
+C:\Users\XQ MT\source\repos\QLST\SieuThi\bin\Debug\SieuThi.exe.config
+C:\Users\XQ MT\source\repos\QLST\SieuThi\bin\Debug\SieuThi.exe
+C:\Users\XQ MT\source\repos\QLST\SieuThi\bin\Debug\SieuThi.pdb
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.exe
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.pdb
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.Views.Form2.resources
+C:\Users\XQ MT\source\repos\QLST\SieuThi\obj\Debug\SieuThi.Views.Form3.resources
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\bin\Debug\SieuThi.exe.config
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\obj\Debug\SieuThi.exe
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\obj\Debug\SieuThi.pdb
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\bin\Debug\SieuThi.exe
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\bin\Debug\SieuThi.pdb
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\obj\Debug\SieuThi.csprojResolveAssemblyReference.cache
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\obj\Debug\SieuThi.Properties.Resources.resources
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\obj\Debug\SieuThi.Views.Form2.resources
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\obj\Debug\SieuThi.Views.Form3.resources
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\obj\Debug\SieuThi.Views.FormMain.resources
+C:\Users\trong\Downloads\Compressed\QLST\QLST\SieuThi\obj\Debug\SieuThi.csproj.GenerateResource.Cache
